@@ -7,7 +7,7 @@ A solidity contract that implements a joint savings account for two ethereum add
 
 ## Technologies
 
-- solidity 0.5.5
+- solidity 0.5.0
 
 ---
 
